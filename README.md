@@ -1,1 +1,1 @@
-# Demonstration-Code-for-Partialy-Homomorphic-Encryption
+# Demonstration-Code-for-Partially-Homomorphic-Encryption
